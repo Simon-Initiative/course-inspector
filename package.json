@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
     "glob": "^7.1.6",
+    "node-svn-ultimate": "^1.2.1",
     "node-xml-stream": "^1.0.2"
   }
 }
